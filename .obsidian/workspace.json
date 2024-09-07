@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+                "file": "LF01/Aufbauorganisationen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+                "file": "LF01/Aufbauorganisationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+                "file": "LF01/Aufbauorganisationen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Tipps/Obsidian Tipps und Tricks.md"
+                "file": "LF01/Aufbauorganisationen.md"
               }
             }
           },
@@ -155,25 +155,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "138b060e1de0db00",
+  "active": "d3b3dc9a79082ba3",
   "lastOpenFiles": [
-    "Obsidian Tipps/Github.md",
-    "Biler/Pasted image 20240907102731.png",
-    "Biler/Pasted image 20240907102719.png",
-    "Biler/Pasted image 20240907102705.png",
-    "Biler/Pasted image 20240907102644.png",
-    "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+    "Bilder/Pasted image 20240907103955.png",
+    "Pasted image 20240907103920.png",
+    "Bilder/Pasted image 20240907103641.png",
     "Inhaltsverzeichnis.md",
-    "AP-2-Lernstoff",
-    "Biler/Pasted image 20240907101534.png",
-    "Biler/Pasted image 20240907101515.png",
-    "Pasted image 20240907101452.png",
-    "Pasted image 20240907101434.png",
     "LF01/Aufbauorganisationen.md",
-    "Obsidian Tipps",
+    "Bilder/Pasted image 20240907103344.png",
+    "Bilder/Pasted image 20240907103041.png",
     "LF01/Digitale Güter.md",
-    "Biler",
-    "Biler/Pasted image 20240907100309.png",
+    "Obsidian Tipps/Github.md",
+    "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+    "Bilder/Pasted image 20240907102731.png",
+    "Bilder/Pasted image 20240907102719.png",
+    "Bilder/Pasted image 20240907102705.png",
+    "Bilder/Pasted image 20240907102644.png",
+    "AP-2-Lernstoff",
+    "Bilder/Pasted image 20240907101534.png",
+    "Bilder/Pasted image 20240907101515.png",
+    "Obsidian Tipps",
+    "Bilder",
     "LF01.md",
     "LF01",
     "create a link.md",
