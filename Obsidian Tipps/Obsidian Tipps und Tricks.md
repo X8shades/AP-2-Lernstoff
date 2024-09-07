@@ -12,6 +12,10 @@
 
 ---
 Wenn der Code so aussieht 
-![[Pasted image 20240907101534.png]]
+
+![[Pasted image 20240907104830.png]]
+
 dann wechsel in den Lesemodus
 ![[Pasted image 20240907101515.png]]
+
+

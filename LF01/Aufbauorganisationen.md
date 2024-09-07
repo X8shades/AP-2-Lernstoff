@@ -65,3 +65,5 @@ Nachteile:
 - Hohe Kosten
 - Konfliktpotenzial zwischen Stab und Linie
 - Informelle Macht der Stabstellen durch Informationsvorsprung
+
+![[Pasted image 20240907104626.png]]
