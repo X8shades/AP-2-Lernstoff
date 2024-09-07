@@ -24,4 +24,10 @@ Wenn der Code so aussieht
 dann wechsel in den Lesemodus
 ![[Pasted image 20240907101515.png]]
 
+---
+Obsidian kann man wie ein Browser benutzen:
+- Wenn man auf eine Datei mit dem Mausrad klickt dann öffnet sich das oben in einem neuen Tab
+- Mann kann auch mehrere Tabs nebeneinander offen haben per drag and drop 
+![[Pasted image 20240907105632.png]]
+
 

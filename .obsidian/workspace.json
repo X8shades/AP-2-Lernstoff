@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF01/Themen LF01.md",
+                "file": "LF10/IOT Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF01/Themen LF01.md",
+                "file": "LF10/IOT Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LF01/Themen LF01.md",
+                "file": "LF10/IOT Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF01/Themen LF01.md"
+                "file": "LF10/IOT Grundlagen.md"
               }
             }
           },
@@ -169,7 +169,13 @@
   },
   "active": "138b060e1de0db00",
   "lastOpenFiles": [
+    "Pasted image 20240907105948.png",
+    "Bilder/Pasted image 20240907105913.png",
     "Obsidian Tipps/Obsidian Tipps und Tricks.md",
+    "LF10/IOT Grundlagen.md",
+    "LF10",
+    "Bilder/Pasted image 20240907105632.png",
+    "Obsidian Tipps/Github.md",
     "LF01/Themen LF01.md",
     "Pasted image 20240907104916.png",
     "Pasted image 20240907104952.png",
@@ -180,11 +186,8 @@
     "Pasted image 20240907104724.png",
     "Pasted image 20240907104636.png",
     "Pasted image 20240907104626.png",
-    "Pasted image 20240907104618.png",
     "LF01/Digitale Güter.md",
-    "Pasted image 20240907104520.png",
     "Inhaltsverzeichnis.md",
-    "Obsidian Tipps/Github.md",
     "AP-2-Lernstoff",
     "Obsidian Tipps",
     "Bilder",
