@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0cb7497c4a14ea",
+        "id": "fc343804ea7d8976",
         "type": "tabs",
         "children": [
           {
-            "id": "138b060e1de0db00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LF10/IOT Grundlagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2d5f63736b7216",
+            "id": "4d0cdd913ad3be1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF10/IOT Grundlagen.md",
+                "file": "LF01/Aufbauorganisationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LF10/IOT Grundlagen.md",
+                "file": "LF01/Aufbauorganisationen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF10/IOT Grundlagen.md"
+                "file": "LF01/Aufbauorganisationen.md"
               }
             }
           },
@@ -167,12 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "138b060e1de0db00",
+  "active": "4d0cdd913ad3be1a",
   "lastOpenFiles": [
-    "Pasted image 20240907105948.png",
+    "LF10/IOT Grundlagen.md",
+    "LF01/Aufbauorganisationen.md",
+    "Bilder/Pasted image 20240907105948.png",
     "Bilder/Pasted image 20240907105913.png",
     "Obsidian Tipps/Obsidian Tipps und Tricks.md",
-    "LF10/IOT Grundlagen.md",
     "LF10",
     "Bilder/Pasted image 20240907105632.png",
     "Obsidian Tipps/Github.md",
@@ -180,12 +169,10 @@
     "Pasted image 20240907104916.png",
     "Pasted image 20240907104952.png",
     "Bilder/Pasted image 20240907101515.png",
-    "LF01/Aufbauorganisationen.md",
     "Bilder/Pasted image 20240907100309.png",
     "Bilder/Pasted image 20240907104830.png",
     "Pasted image 20240907104724.png",
     "Pasted image 20240907104636.png",
-    "Pasted image 20240907104626.png",
     "LF01/Digitale Güter.md",
     "Inhaltsverzeichnis.md",
     "AP-2-Lernstoff",
