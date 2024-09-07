@@ -1,5 +1,9 @@
 [hier](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) ist die offizielle Seite falls man was nicht weiß
 
+Links in Obsidian werden mit zwei eckigen Klammern gekennzeichnet [[]] und in den Klammern die Datei die man verlinken will 
+
+---
+
 <code class="is-loaded language-md">
 	<span class="token title important">
 		<span class="token punctuation">#</span>
@@ -9,8 +13,10 @@
 		<span class="token punctuation">##</span>
 			Das ist die zweitgrößte (je mehr # desto kleiner die Überschrift)
 	</span>
+</code>
 
 ---
+
 Wenn der Code so aussieht 
 
 ![[Pasted image 20240907104830.png]]
