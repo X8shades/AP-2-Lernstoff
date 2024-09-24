@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF01/Aufbauorganisationen.md",
+                "file": "LF11/Linux Install und SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF01/Aufbauorganisationen.md",
+                "file": "LF11/Linux Install und SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LF01/Aufbauorganisationen.md",
+                "file": "LF11/Linux Install und SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF01/Aufbauorganisationen.md"
+                "file": "LF11/Linux Install und SSH.md"
               }
             }
           },
@@ -155,25 +155,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d0cdd913ad3be1a",
+  "active": "d3b3dc9a79082ba3",
   "lastOpenFiles": [
-    "LF10/IOT Grundlagen.md",
+    "Bilder/Unbenannt-1 1.jpg",
+    "Bilder/Unbenannt 2.jpg",
+    "Bilder/Unbenannt-1.jpg",
+    "Bilder/Unbenannt 1.jpg",
+    "Bilder/Unbenannt.jpg",
+    "LF01/Digitale Güter.md",
+    "LF11/Linux Install und SSH.md",
+    "LF11",
+    "LF01/Themen LF01.md",
     "LF01/Aufbauorganisationen.md",
+    "LF10/IOT Grundlagen.md",
     "Bilder/Pasted image 20240907105948.png",
     "Bilder/Pasted image 20240907105913.png",
     "Obsidian Tipps/Obsidian Tipps und Tricks.md",
     "LF10",
     "Bilder/Pasted image 20240907105632.png",
     "Obsidian Tipps/Github.md",
-    "LF01/Themen LF01.md",
     "Pasted image 20240907104916.png",
     "Pasted image 20240907104952.png",
     "Bilder/Pasted image 20240907101515.png",
-    "Bilder/Pasted image 20240907100309.png",
-    "Bilder/Pasted image 20240907104830.png",
-    "Pasted image 20240907104724.png",
-    "Pasted image 20240907104636.png",
-    "LF01/Digitale Güter.md",
     "Inhaltsverzeichnis.md",
     "AP-2-Lernstoff",
     "Obsidian Tipps",
