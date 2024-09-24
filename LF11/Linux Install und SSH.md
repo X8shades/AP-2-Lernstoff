@@ -1,26 +1,12 @@
 # Beim Router
 apt install sudo
-	7  ip addr add 192.168.10.0/24 dev ens4
-    8  ip addr add 192.168.50.0/24 dev ens5
-    9  ip help
    10  ip root
    11  ip link set dev ens4 up
    12  ip link set dev ens5 up
    13  ip a
-   14  ip a
    15  ping 8.8.8.8
-   16  ip addr add 192.168.10.1/24 dev ens4
-   17  ip addr add 192.168.50.1/24 dev ens5
-   18  ip a
-   19  ip addr del 192.168.10.0/32 dev ens4
-   20  ip addr del 192.168.10.0/24 dev ens4
-   21  ip addr del 192.168.50.0/24 dev ens5
-   22  ip a
    23  ip addr add 192.168.50.1/24 dev ens5
    24  ip addr add 192.168.10.1/24 dev ens4
-   25  ip a
-   26  ip addr del 192.168.10.0/24 dev ens4
-   27  ip a
    28  nft add table ip nat
    29  nft -- add chain ip nat prerouting { type nat hook prerouting priority -100 \; }
    30  nft add table ip nat
