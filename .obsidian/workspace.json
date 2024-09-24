@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LF11/Linux Install und SSH.md",
+                "file": "LF11/Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LF11/Linux Install und SSH.md",
+                "file": "LF11/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LF11/Linux Install und SSH.md",
+                "file": "LF11/Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LF11/Linux Install und SSH.md"
+                "file": "LF11/Firewall.md"
               }
             }
           },
@@ -155,15 +155,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b3dc9a79082ba3",
+  "active": "4d0cdd913ad3be1a",
   "lastOpenFiles": [
+    "LF11/Linux Install und SSH.md",
+    "LF11/Firewall.md",
     "Bilder/Unbenannt-1 1.jpg",
     "Bilder/Unbenannt 2.jpg",
     "Bilder/Unbenannt-1.jpg",
     "Bilder/Unbenannt 1.jpg",
     "Bilder/Unbenannt.jpg",
     "LF01/Digitale Güter.md",
-    "LF11/Linux Install und SSH.md",
     "LF11",
     "LF01/Themen LF01.md",
     "LF01/Aufbauorganisationen.md",
@@ -176,7 +177,6 @@
     "Obsidian Tipps/Github.md",
     "Pasted image 20240907104916.png",
     "Pasted image 20240907104952.png",
-    "Bilder/Pasted image 20240907101515.png",
     "Inhaltsverzeichnis.md",
     "AP-2-Lernstoff",
     "Obsidian Tipps",

@@ -27,22 +27,16 @@ apt install sudo
    45  sudo nano /etc/sysctl.conf
    46  rc-service sysctl status
    47  sudo nano /etc/sysctl.conf
-   48  y
    49  sysctl -p
    50  sysctl -p
    51  sudo nftables.conf
    52  nano /etc/nftables.conf
    53  nano /etc/nftables.conf
-   54  ping 8.8.8.8
-   55  ip a
    56  systemctl restart nftables
    57  systemctl restart nftables.service
    58  systemctl status nftables.service
    59  systemctl status nftables
    60  systemctl status nftables
-   61  clr
-   62  clear
-   63  clear
    64  systemctl status nftables
    65  systemctl enable nftables.service
    66  systemctl enable nftables.service
