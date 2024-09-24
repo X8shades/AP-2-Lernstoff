@@ -12,7 +12,7 @@ Berücksichtigt zusätzlich den Zustand der Verbindung (z.B. ob sie bereits geö
 ##### Next-Generation Firewalls #Layer 3-7
 Benutzen Intrusion Prevention Systeme (IPS) und überwachen den Datenverkehr auf verdächtige Aktivitäten und blockieren Angriffsversuche in Echtzeit. 
 
-##### Router Verkehr 
+### Router Verkehr 
 
 (Beim grünen Bereich)
 Wenn der Router direkt angesprochen wird, dann handelt sich um eine ==Input Hook==
